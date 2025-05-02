@@ -1,7 +1,7 @@
 # Transcendent Multiclass
 
-![CI status](https://github.com/w-disaster/transcendent-multiclass/actions/workflows/check.yml/badge.svg) 
-![Version](https://img.shields.io/github/v/release/w-disaster/transcendent-multiclass?style=plastic)
+![CI status](https://github.com/malware-concept-drift-detection/transcendent-multiclass/actions/workflows/check.yml/badge.svg) 
+![Version](https://img.shields.io/github/v/release/malware-concept-drift-detection/transcendent-multiclass?style=plastic)
 
 This repository enables users to apply Transcendent-like concept drift detection to both binary and multiclass problems.
 
